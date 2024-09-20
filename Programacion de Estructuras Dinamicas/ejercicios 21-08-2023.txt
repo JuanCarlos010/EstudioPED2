@@ -1,0 +1,16 @@
+ejercicios 21-08-2023
+notas: para obtener el valor se deja el ptr sin mas, pero si se quiere mostrar el valor se deja con el "*"
+* = puntero
+& = direccion de memoria
+
+
+1) ¿son iguales o diferentes las direcciones de memoria de r y n?R/ son iguales ¿porque?R/ debido a que un puntero
+apunta a un valor y el otro puntero apunta al puntero anterior.
+
+2)cual es la salida del siguiente programa?
+dio 35
+
+3) cual es la salida del siguiente programa?
+dio 35
+
+4) escribir una funcion que utilice punteros para buscar la direccion de un entero dado en un array dado. si se encuentra el enetero dado, la funcion devuelve su direccion; en caso contrario se devuelve un null
